@@ -37,3 +37,17 @@ git pull
 ```bash
 git reset --HARD
 ```
+
+## Menambah Branch baru
+
+
+```bash
+git branch [nama_branch]
+```
+
+## Berpindah Branch
+
+
+```bash
+git checkout [nama_branch]
+```
