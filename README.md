@@ -42,7 +42,7 @@ git reset --HARD
 
 
 ```bash
-git branch [nama_branch]
+git branch nama_branch
 ```
 
 ## Berpindah Branch
