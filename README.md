@@ -25,7 +25,7 @@ git commit -m "Tuliskan di sini, apa aja yang berubah"
 git push
 ```
 
-## Mengambil Update Reporitori dari Server
+## Mengambil Update Repositori dari Server
 
 ```bash
 git pull
