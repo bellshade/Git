@@ -37,3 +37,9 @@ git pull
 ```bash
 git reset --HARD
 ```
+
+## Melakukan Revert dan Menyimpan hasil perubahan dalam Work In Progres (WIP)
+
+```bash
+git stash
+```
