@@ -49,5 +49,5 @@ git branch nama_branch
 
 
 ```bash
-git checkout [nama_branch]
+git checkout nama_branch
 ```
