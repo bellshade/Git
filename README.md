@@ -38,8 +38,16 @@ git pull
 git reset --HARD
 ```
 
-## Melakukan Revert dan Menyimpan hasil perubahan dalam Work In Progres (WIP)
+## Menambah Branch baru
+
 
 ```bash
-git stash
+git branch nama_branch
+```
+
+## Berpindah Branch
+
+
+```bash
+git checkout nama_branch
 ```
