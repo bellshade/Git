@@ -33,13 +33,11 @@ git pull
 
 ## Reset di Local
 
-
 ```bash
 git reset --HARD
 ```
 
 ## Menambah Branch baru
-
 
 ```bash
 git branch nama_branch
@@ -47,7 +45,18 @@ git branch nama_branch
 
 ## Berpindah Branch
 
-
 ```bash
 git checkout nama_branch
+```
+
+### Mengubah nama commit
+
+```bash
+git commit --amend
+```
+
+### Mengubah origin
+
+```bash
+git remote set-url urlorigin-terbaru.git
 ```
