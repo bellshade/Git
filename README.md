@@ -52,7 +52,7 @@ git checkout nama_branch
 ### Mengubah nama commit
 
 ```bash
-git commit --amend
+git commit --amend -m "Message Commit Terbaru"
 ```
 
 ### Mengubah origin url
