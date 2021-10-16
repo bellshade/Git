@@ -55,7 +55,7 @@ git checkout nama_branch
 git commit --amend
 ```
 
-### Mengubah origin
+### Mengubah origin url
 
 ```bash
 git remote set-url urlorigin-terbaru.git
