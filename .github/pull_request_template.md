@@ -4,17 +4,17 @@
 
 # Checklist:
 
-##### Umum:
+### Umum:
 
-- [ ] Saya memperbaiki dokumentasi.
-- [ ] Saya menambah dokumentasi.
+- [x] Saya memperbaiki dokumentasi.
+- [x] Saya menambah dokumentasi.
 
-##### Contributor Requirements (Syarat Kontributor) dan Lain-Lain:
+#### Contributor Requirements (Syarat Kontributor) dan Lain-Lain:
 
-- [ ] Saya sudah membaca (I have read) [CONTRIBUTING](https://github.com/bellshade/Git/blob/main/CONTRIBUTING.md) dan sudah menyetujui semua syarat.
-- [ ] Saya menggunakan bahasa Indonesia untuk memberikan penjelasan dari kode yang saya buat.
+- [x] Saya sudah membaca (I have read) [CONTRIBUTING](https://github.com/bellshade/Git/blob/main/CONTRIBUTING.md) dan sudah menyetujui semua syarat.
+- [x] Saya menggunakan bahasa Indonesia untuk memberikan penjelasan dari kode yang saya buat.
 
 **maintainer**
 
-- [ ] @LuminetteBourgeons
-- [ ] @nomadkode
+- [x] @LuminetteBourgeons
+- [x] @nomadkode
