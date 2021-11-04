@@ -39,7 +39,10 @@ git add .
 ```bash
 git commit -m "Tuliskan di sini, apa aja yang berubah"
 ```
-
+## Membuat commit untuk file modified, dan sebelumnya fie telah committed
+```bash
+git commit -am 'short msg'
+```
 ## Upload Repositori dari Local
 
 ```bash
